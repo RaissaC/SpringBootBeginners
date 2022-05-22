@@ -1,6 +1,4 @@
-package com.luv2code.springdemo.springdemo;
-
-import com.luv2code.springdemo.springdemo.domain.Coach;
+package com.luv2code.springdemo.springdemo.domain;
 
 public class TrackCoach implements Coach {
 
